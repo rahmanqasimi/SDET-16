@@ -75,8 +75,8 @@ class SafariDriver implements RemoteWebDriver{
 class Test{
     public static void main(String[] args) {
         RemoteWebDriver chrome = new ChromeDriver();
-        WebDriver firefox = new FirefoxDriver();
-        TakesScreenshot safari = new SafariDriver();
+        RemoteWebDriver firefox = new FirefoxDriver();
+        RemoteWebDriver safari = new SafariDriver();
 
         chrome.open();
         chrome.navigate();

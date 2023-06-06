@@ -1,6 +1,6 @@
 package class15;
 
-import jdk.swing.interop.LightweightContentWrapper;
+
 
 public class Dog {
     String name;

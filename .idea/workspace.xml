@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e013fd7d-6c46-401c-8f1a-408dd3fe29e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practice2/P6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E10ShortHandOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E11ShortHandOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E12ShortHandOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E13TypeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E14TypeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E15TypeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E16ComparisonOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E17IfStatements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E18IfStatements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E19IfElseStatements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E1Addition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E20IfElseStatements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E2Subtraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E3Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E4Division.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E4Divison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E5Modulus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E6Modulus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E7StringConcat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E8StringConcat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Class3/E9ShortHandOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/CarTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/MarkTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Marks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Reg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Registration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Sedan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Task10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/GroupProject2/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/CheckEvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/CheckNumberPositive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/Class13_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/DoubleComparison.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/HW1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/HW1111.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/HW2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/Hours.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/Hw3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/Hw4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/Hw5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/Hw6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/Hw7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/REP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/TemperatureCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/VariableValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Homework/Variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Animal$Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Animal$Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Animal$cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/AnimalTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/C102DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/C102DArray2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/C102DArray3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/C102DArray4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/C102DArray5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/C102DArray6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/C10Classes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Classes1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Dog1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/DogTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/P9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Practices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/SynPrac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/SyntaxEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/height.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/p1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/quiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice/scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/An.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/AnTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Degree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/FileTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/JavaFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/P1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/P2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/P3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/P4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/P5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/PdfFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Prac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Sedan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Suv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/VehicleTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Practice2/WordFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/Tasks/Task9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class1/FirstJavaProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class1/SecondProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class1/VariablesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class1/VariablesDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/E1D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/E2D2Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/E3D2Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/E4D2Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/E5D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/Task5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/Task6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class10/Task7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E10Classes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E1D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E2D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E3D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E4D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E5D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E6D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E7D2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E8Classes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/E9Classes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class11/StudentTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/CarTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/DogTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E10StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E11StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E12StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E1StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E2StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E3StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E4StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E5StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E6StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E7StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E8StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/E9StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class12/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/ArrayUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/E1StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/E2StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/E3StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/E4StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/E5StringVsStringBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/E6StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/E7StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/E8StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/Math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/MethodTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class13/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/E1Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/E2ArrayManipulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/E3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/E4ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/E5ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/E5Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/E6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/E7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class14/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/E1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/E2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/E3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/E4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/E5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/PersonTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/SyntaxEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class15/Task1Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class16/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class16/CatTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class16/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class16/DogTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class16/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class16/PersonTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class16/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class16/Task1Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/DogTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/LGTV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/MethodTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/PersonTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Replit128.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class17/Zebra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/AnimalTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/BMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/CarTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Chair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/E1MultipleConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/ETester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Furniture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/FurnitureTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Honda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/PersonTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/SamsungTV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/TV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/TVTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class18/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class19/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class19/AnimalTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class19/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class19/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class19/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class19/Math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class19/Replit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/AdditionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/BooleanDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/CharDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/FaceBookExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/FloatingPointNumbersDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/PracticeVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/StringConcatenationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/VariablesDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/VariablesDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/VariablesDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/VariablesDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/VariablesDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/VariablesDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class2/WholeNumbersDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/AnimalTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Axel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Grandpa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/ParentTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class20/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/AnimalTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Axel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/CollegeStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/E1Poly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Refresher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Refresher1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/SchoolStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/StudentTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class21/SyntaxStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/AnimalTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/ArrayUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/ChromeDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/FileTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/FinalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/JavaFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/PdfFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/WebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class22/WordFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/BankTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/ChromeDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/Debra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/E1Collections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/E2Collections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/E3Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/FirefoxDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/Horse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/MoveAble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/MoveAbleTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/SellAble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/Tester1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/WashAble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class23/WebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E10ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E11ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E12ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E13ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E14ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E15ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E16ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E1ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E2ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E3ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E4ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E5ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E6ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E7ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E8ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/E9ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class24/Ternary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E10Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E11Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E12NestedIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E1IfElseStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E2IfElseStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E3ElseIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E4ElseIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E5Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E6Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E7Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E8Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/E9Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/HW1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/HW2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/HW3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class4/HW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class5/E1If.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class5/E2If.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class5/E3IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class5/E4NestedIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class5/E5LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class5/E6LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class5/E7LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class5/E8LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class6/E1LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class6/E2LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class6/E3LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class6/E4SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class6/E5SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class6/E6SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class6/E7SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class6/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E10WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E11WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E12WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E13WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E14ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E15ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E16ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E17DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E18DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E1WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E2WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E3WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E4WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E5WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E6WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E7WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E8WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class7/E9WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E10NestedForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E11NestedLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E12NestedLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E13NestedLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E14NestedLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E1WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E2WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E3ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E4BreakKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E5WhileAndBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E6NestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E7NestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E8NestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class8/E9NestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E10Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E11Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E12Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E13Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E1Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E2Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E3Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E4Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E5Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E6Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E7Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E8Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/E9Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SDET-16/class9/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupProject2/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProject2/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class15/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class15/Dog.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e5189ea1-c55c-43c8-b56b-f2203adbe1ff" />
+        <option name="url" value="https://github.com/rahmanqasimi/SDET-16" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NC5Yc9R2Kq3ntFJKXUO14JpBbW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/mutee/IdeaProjects/SDET",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gant"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Class3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Constants">
+    <configuration name="CarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.CarTester" />
+      <module name="SDET-16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GroupProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utils.Constants" />
+      <module name="SDETJavaBatch16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.MarkTester" />
+      <module name="SDET-16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GroupProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.Reg" />
+      <module name="SDET-16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GroupProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProject2.Tester" />
+      <module name="SDET-16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GroupProject2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SDET-16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SDET-16" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Constants" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.MarkTester" />
+        <item itemvalue="Application.Reg" />
+        <item itemvalue="Application.CarTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e013fd7d-6c46-401c-8f1a-408dd3fe29e3" name="Changes" comment="" />
+      <created>1679155275411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679155275411</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit Class 22">
+      <created>1684606332357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684606332358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit Class 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Class 22" />
+  </component>
+</project>
